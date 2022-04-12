@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maria-arnold@gmx.net
+	name = Maria Arnold
